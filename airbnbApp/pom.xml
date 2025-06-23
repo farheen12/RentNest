@@ -11,8 +11,8 @@
 	<groupId>com.codingshuttle.projects</groupId>
 	<artifactId>RentNest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>airbnbApp</name>
-	<description>Airbnb Clone Project</description>
+	<name>RentNest</name>
+	<description>Spring Boot Project for Rentals</description>
 	<url/>
 	<licenses>
 		<license/>
