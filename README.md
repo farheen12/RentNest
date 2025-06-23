@@ -3,7 +3,9 @@
 A Spring Boot-based backend project that powers a rental booking platform, mimicking core Airbnb functionalities.
 ## 🔗 Live Swagger Docs (API Reference)
 
-📄 [Swagger API Documentation](http://localhost:8080/api/v1/swagger-ui/index.html)
+📄 [Swagger API Documentation]
+Run the project and visit:  
+📄 (http://localhost:8080/api/v1/swagger-ui/index.html)
 
 ## 🔧 Tech Stack
 - Java 17
