@@ -5,7 +5,7 @@ A Spring Boot-based backend project that powers a rental booking platform, mimic
 
 📄 [Swagger API Documentation]
 Run the project and visit:  
-📄 (http://localhost:8080/api/v1/swagger-ui/index.html)
+http://localhost:8080/api/v1/swagger-ui/index.html
 
 ## 🔧 Tech Stack
 - Java 17
