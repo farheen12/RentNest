@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.codingshuttle.projects</groupId>
-	<artifactId>airbnbApp</artifactId>
+	<artifactId>RentNest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>airbnbApp</name>
 	<description>Airbnb Clone Project</description>
